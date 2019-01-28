@@ -1,0 +1,6 @@
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\bin\Debug\tsp.exe.config
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\obj\Debug\tsp.csprojResolveAssemblyReference.cache
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\bin\Debug\tsp.exe
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\bin\Debug\tsp.pdb
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\obj\Debug\tsp.exe
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\tsp\tsp\obj\Debug\tsp.pdb
